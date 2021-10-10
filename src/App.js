@@ -65,7 +65,7 @@ function App() {
       </main>
       <footer class="footer-box">
         <div class="footer-bar">© 2021 Copyright : 
-          <a href="https://suveesoft.in/suhasnidgundi"> By Suhas Nidgundi</a>
+          <a href="https://suhasnidgundi.suveesoft.in/"> By Suhas Nidgundi</a>
         </div>
       </footer>
     </div>
